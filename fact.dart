@@ -1,3 +1,5 @@
+// factorial function
+
 import 'dart:io';
 
 void main(){
