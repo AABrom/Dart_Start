@@ -1,3 +1,8 @@
+/* 
+input: number of strings(n), n strings 
+output: if strings contain 'Python' or 'python' or not
+*/
+
 import 'dart:io';
 
 void main(){
