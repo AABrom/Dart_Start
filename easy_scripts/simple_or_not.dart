@@ -1,3 +1,5 @@
+// if input number is simple or not 
+
 import 'dart:io';
 import 'dart:math';
 
