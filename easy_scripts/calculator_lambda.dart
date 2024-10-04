@@ -1,3 +1,8 @@
+/*
+input: String arithmetic operator '+', '-', '*', '/'
+output: result of operation on two numbers
+*/
+
 import 'dart:io';
 
 void main() {
