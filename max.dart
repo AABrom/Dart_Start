@@ -1,3 +1,8 @@
+/*
+input: 10000 numbers or less, break is 0
+output: count of max number in array
+*/
+
 import 'dart:io';
 
 void main(){
